@@ -1,6 +1,6 @@
 # Decompiler-SoK
 
-## Tools
+## [Tools](./Tools)
 
 This section introduces decompilers currently available to users.
 Some of them are commonly used in reverse engineering pratice, for example, **Ghidra**, **JEB**, and **Hex-Rays**.
@@ -19,23 +19,23 @@ The readers can try out each tool at <https://dogbolt.org>.
 - Relyze
 - Snowman
 
-## General Overview
+## [General Overview](./GeneralOverview)
 
 This section introduces theses or books about decompilation.
 
-## Compiler
+## [Compiler](./Compiler)
 
 This section introduces compiler related knowledge.
 
-## Program Analysis
+## [Program Analysis](./ProgramAnalysis)
 
 This section introduces the theory of program analysis.
 
-## Feamework
+## [Framework](./Framework)
 
 This section introduces the work of decompilation framework.
 
-## Intermediate Representation
+## [Intermediate Representation](./IntermediateRepresentation]
 
 This section introduces the intermediate representation designed for reverse engineering.
 
@@ -50,35 +50,35 @@ This section introduces the intermediate representation designed for reverse eng
 - BTIL
 
 
-## Type Reconstruction
+## [Type Reconstruction](./TypeReconstruction)
 
 This section introduces the papers aim to reconstruct the type information of variable, including general type and struct.
 
-## Control Flow Reconstruction
+## [Control Flow Reconstruction](./ControlFlowReconstruction)
 
 This section introduces the work of control flow reconstruction.
 
-## Debug Information Recovery
+## [Debug Information Recovery](./DebugInformationRecovery)
 
 This section introduces the work of debug information recovery including identifier recogonizing and renaming.
 
-## Evaluation
+## [Evaluation](./Evaluation)
 
 This section introduces the evaluation related work of decompilation.
 
-## C++ Decompilation
+## [C++ Decompilation](./C++Decompiler)
 
 This section introduces the work aim to recover the object-oriented related features in C++.
 
-## AI-Based Decompilation
+## [AI-Based Decompilation](./AIBasedDecompilation)
 
 This section introduces the work of AI-based decompilation.
 
-## Application
+## [Application](./Application)
 
 This section introduces the work aim to recover the features of specific application scenarios.
 
-## Other Topic
+## [Other Topics](./OtherTopics)
 
 Other topics in decompilation.
 
