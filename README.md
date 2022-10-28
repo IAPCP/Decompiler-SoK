@@ -9,7 +9,7 @@ Some of them are commonly used in reverse engineering pratice, for example, **Gh
 Others are not yet complete. Some are still under development.
 The readers can try out each tool at <https://dogbolt.org>.
 
-- Ghidra
+<!-- - Ghidra
 - Hex-Rays
 - JEB
 - RetDec
@@ -19,29 +19,34 @@ The readers can try out each tool at <https://dogbolt.org>.
 - RecStudio
 - Reko
 - Relyze
-- Snowman
+- Snowman -->
 
 ## [General Overview](./GeneralOverview)
 
-This section introduces theses or books about decompilation.
+This section introduces the development, theories and principles of decompilation.
+We list some theses or books about decompilation.
 
 ## [Compiler](./Compiler)
 
-This section introduces compiler related knowledge.
+This section introduces the architecture and principles of compiler.
+We summarize the relationship between compilers and decompilers. 
 
 ## [Program Analysis](./ProgramAnalysis)
 
-This section introduces the theory of program analysis.
+This section introduces the theory of program analysis and reverse engineering.
+We introduce the relationship among decompilation, program analysis and reverse engineering.
 
 ## [Framework](./Framework)
 
 This section introduces the work of decompilation framework.
+Different from the Section "General Overview", this section aims at the degisn principles and details of implementation of decompilers in practice.
 
 ## [Intermediate Representation](./IntermediateRepresentation)
 
 This section introduces the intermediate representation designed for reverse engineering.
+Some of them have been applyed to decompilers in Section "Tools", for example, pcode used in Ghidra and micro code used in Hex-Rays. 
 
-- LLVM IR
+<!-- - LLVM IR
 - Ghidra Pcode
 - VEX
 - Hex-Rays microcode
@@ -49,16 +54,18 @@ This section introduces the intermediate representation designed for reverse eng
 - REIL
 - ESIL
 - LLIL
-- BTIL
+- BTIL -->
 
 
 ## [Type Reconstruction](./TypeReconstruction)
 
 This section introduces the papers aim to reconstruct the type information of variable, including general type and struct.
 
-## [Control Flow Reconstruction](./ControlFlowReconstruction)
 
-This section introduces the work of control flow reconstruction.
+## [Control Structures Reconstruction](./ControlFlowReconstruction)
+
+This section introduces the work of control structures reconstruction.
+Control structures include *if-else*, *switch-case*, *while*, *do-while*, *for* and so on.
 
 ## [Debug Information Recovery](./DebugInformationRecovery)
 
@@ -82,6 +89,6 @@ This section introduces the work aim to recover the features of specific applica
 
 ## [Other Topics](./OtherTopic)
 
-Other topics in decompilation.
+Other topics in decompilation, for example, **nn decompiler**, **code representation** and so on.
 
 
