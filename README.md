@@ -1,5 +1,7 @@
 # Decompiler-SoK
 
+This website is only used for collecting, grouping and summarizing the related paper of decompilation. If there are any paper need to be updated, you can contribute PR.
+
 ## [Tools](./Tools)
 
 This section introduces decompilers currently available to users.
@@ -35,7 +37,7 @@ This section introduces the theory of program analysis.
 
 This section introduces the work of decompilation framework.
 
-## [Intermediate Representation](./IntermediateRepresentation]
+## [Intermediate Representation](./IntermediateRepresentation)
 
 This section introduces the intermediate representation designed for reverse engineering.
 
@@ -78,7 +80,7 @@ This section introduces the work of AI-based decompilation.
 
 This section introduces the work aim to recover the features of specific application scenarios.
 
-## [Other Topics](./OtherTopics)
+## [Other Topics](./OtherTopic)
 
 Other topics in decompilation.
 
