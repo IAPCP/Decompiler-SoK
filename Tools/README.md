@@ -23,7 +23,7 @@ The decompiler runs on MS Windows, Linux, and Mac OS X. The GUI and text IDA ver
 
 **Last update:** IDA 8.1.221006 October 6, 2022
 
-**Url:** https://hex-rays.com/decompiler/
+**Website:** https://hex-rays.com/decompiler/
 
 ### Ghidra
 Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. 
@@ -35,7 +35,7 @@ Users may also develop their own Ghidra extension components and/or scripts usin
 
 **Last update:** Ghidra 10.2 Nov 3, 2022
 
-**Url:** https://github.com/NationalSecurityAgency/ghidra.git
+**Website:** https://github.com/NationalSecurityAgency/ghidra.git
 
 ### JEB
 JEB is a reverse-engineering platform to perform disassembly, decompilation, debugging, and analysis of code and document files, 
@@ -46,7 +46,7 @@ EVM (Ethereum Decompiler for Smart Contracts), Diem decompiler.
 
 **Last update:** November, 2022
 
-**Url:** https://www.pnfsoftware.com/jeb/
+**Website:** https://www.pnfsoftware.com/jeb/
 
 ### RetDec
 RetDec is a retargetable machine-code decompiler based on LLVM. 
@@ -58,7 +58,7 @@ It aims to output recompilable-c-code.
 
 **Last update:** Apr 8, 2020
 
-**Url:** https://github.com/avast/retdec.git
+**Website:** https://github.com/avast/retdec.git
 
 ### rev.ng
 It is a tool for binary analysis, reverse engineering, and binary translation. 
@@ -69,7 +69,7 @@ Check out the features and stay tuned for the coming beta.
 
 **Last update:** Nov 11, 2022
 
-**Url:** https://rev.ng/
+**Website:** https://rev.ng/
 
 ### Binary Ninja 
 Binary Ninja is an interactive disassembler, decompiler, and binary analysis platform for 
@@ -81,7 +81,7 @@ Its decompiler outputs to both C and BNIL and can be switched on-demand.
 
 **Last update:** 3.2.3814 Oct 28, 2022
 
-**url:** https://binary.ninja/
+**Website:** https://binary.ninja/
 
 ### Boomerang
 This project is an attempt to develop a real decompiler for machine code programs through the open source community. 
@@ -95,7 +95,7 @@ It does not matter if the executable file has symbols or not, or was compiled fr
 
 **Last update:** Oct 28, 2012
 
-**url:** https://boomerang.sourceforge.net/
+**Website:** https://boomerang.sourceforge.net/
 
 ### dewolf
 dewolf is a research decompiler developed during a research cooperation 
@@ -109,14 +109,14 @@ Consequently, you will likely observe a few bugs or even decompilation failures 
 
 **Last update:** Nov 10, 2022
 
-**url:** https://github.com/fkie-cad/dewolf
+**Website:** https://github.com/fkie-cad/dewolf
 
 ### REC Studio
 It is a reverse engineering compiler. 
 
-**last update:** September 24, 2015
+**Last update:** September 24, 2015
 
-**url:** http://backerstreet.com/rec/recdload.htm
+**Website:** http://backerstreet.com/rec/recdload.htm
 
 ### Reko
 Reko (Swedish: "decent, obliging") is a decompiler for machine code binaries. This project is freely available under the GNU General Public License.
@@ -129,7 +129,7 @@ The decompiler engine then proceeds to analyze the input binary.
 
 **Last update:** Apr 8, 2022
 
-**url:** https://github.com/uxmal/reko.git
+**Website:** https://github.com/uxmal/reko.git
 
 ### Relyze
 Relyze Desktop lets you reverse engineer, decompile and diff x86, x64, ARM32 and ARM64 software.
@@ -138,7 +138,7 @@ The decompiler is fully interactive, letting you rename and retype variables, na
 
 **Last update:** Aug 10, 2022
 
-**url:** https://www.relyze.com/overview.html
+**Website:** https://www.relyze.com/overview.html
 
 ### Snowman
 Snowman is a native code to C/C++ decompiler, supporting x86, AMD64, and ARM architectures. 
@@ -147,4 +147,4 @@ Snowman is free software.
 
 **Last update:** Jun 22, 2019
 
-**Url:** https://www.relyze.com/overview.html
+**Website:** https://www.relyze.com/overview.html
