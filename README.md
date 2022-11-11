@@ -24,7 +24,7 @@ The readers can try out each tool at <https://dogbolt.org>.
 ## [General Overview](./GeneralOverview)
 
 This section introduces the development, theories and principles of decompilation.
-We list some theses or books about decompilation.
+We list some theses and books about decompilation.
 
 ## [Compiler](./Compiler)
 
