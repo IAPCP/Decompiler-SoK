@@ -1,6 +1,6 @@
 # Decompiler-SoK
 
-This website is only used for collecting, grouping and summarizing the related paper of decompilation. If there are any paper need to be updated, you can contribute PR.
+This repo is only used for collecting, grouping and summarizing the related paper of decompilation. If there are any paper need to be updated, you can contribute PR.
 
 ## [Tools](./Tools)
 
