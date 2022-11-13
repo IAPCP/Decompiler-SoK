@@ -75,7 +75,7 @@ This section introduces the work of debug information recovery including identif
 
 This section introduces the evaluation related work of decompilation.
 
-## [C++ Decompilation](./C++Decompililation)
+## [C++ Decompilation](./C++Decompilation)
 
 This section introduces the work aim to recover the object-oriented related features in C++.
 
