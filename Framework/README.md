@@ -1,4 +1,4 @@
-# General Overview
+# Framework
 
 - Accurate Retargetable Decompilation Using Additional Debugging Information
 - RetDec: An Open-Source Machine-Code Decompiler
