@@ -6,6 +6,7 @@
 - Debin: Predicting Debug Information in Stripped Binaries
 - DIRE: Decompiled Identifier Renaming Engine
 - DIRTY: Augmenting Decompiler Output with Learned Variable Names and Types
+- TREX: Learning Execution Semantics from Micro-Traces for Binary Similarity (Function name recovery)
 
 ### Readability
 
