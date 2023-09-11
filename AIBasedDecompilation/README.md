@@ -8,3 +8,4 @@
 - Neutron: an Attention-Based Neural Decompiler
 - Beyond the C: Retargetable Decompilation Using Neural Machine Translation
 - [SLaDe: A Portable Small Language Model Decompiler for Optimized Assembler](./slade.md)
+- [LmPa: Improving Decompilation by Synergy of Large Language Model and Program Analysis](./lmpa.md)
