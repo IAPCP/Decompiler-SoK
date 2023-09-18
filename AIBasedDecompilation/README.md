@@ -9,3 +9,6 @@
 - Beyond the C: Retargetable Decompilation Using Neural Machine Translation
 - [SLaDe: A Portable Small Language Model Decompiler for Optimized Assembler](./slade.md)
 - [LmPa: Improving Decompilation by Synergy of Large Language Model and Program Analysis](./lmpa.md)
+- Neural Machine Translation for Code Generation
+- Extending Source Code Pre-Trained Language Models to Summarise Decompiled Binaries
+- Code Translation with Compiler Representations
