@@ -6,4 +6,4 @@
 - Native x86 Decompilation Using Semantics-Preserving 
 - No More Gotos: Decompilation Using Pattern-Independent Control-Flow Structuring and Semantics-Preserving Transformations
 - A Comb for Decompiled C Code
-- [AhoySAILR!ThereisNoNeedtoDREAMofC: ACompiler-AwareStructuringAlgorithmforBinaryDecompilation](./sailr.md)
+- [Ahoy SAILR! There is No Need to DREAM of C: A Compiler-Aware Structuring Algorithm for Binary Decompilation](./sailr.md)
