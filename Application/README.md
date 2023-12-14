@@ -5,4 +5,4 @@
 - 
 
 ### Finding Bugs
-- QueryX: Symbolic Query on Decompiled Code for Finding Bugs in COTS Binaries
+- QueryX: Symbolic Query on Decompiled Code for Finding Bugs in COTS Binaries **SP'23**
